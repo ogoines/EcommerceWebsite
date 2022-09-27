@@ -112,7 +112,7 @@ router.put('/:id', (req, res) => {
     });
 });
 
-
+//All routes working
 router.delete('/:id', async (req, res) => {
   // delete one product by its `id` value
   try {
