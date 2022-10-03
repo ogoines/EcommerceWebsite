@@ -24,13 +24,13 @@ This application is an e-commerce API that uses sequelize, and Express.js to to 
 To view walkthrough videos that demonstration the functionality of this API, visit the
 following links:
 
-​![Update Routes](https://drive.google.com/file/d/1-OU1TaSQiMglBYmMW2W8TfvTpN82DdJYview)
+![Update Routes](https://drive.google.com/file/d/1-OU1TaSQiMglBYmMW2W8TfvTpN82DdJY/view)
 
 ​![Get Routes](https://drive.google.com/file/d/1TM2gzGjfJhAVHsnP_w7Tu10_obOVUMk-/view)
 
 ​![Post Routes](https://drive.google.com/file/d/1aZ6HFAlBCknkQCEb3kj607d5ItOvxxfk/view)
 
-​![Delete Routes](https://drive.google.com/file/d/1iG6D1EPUxF5-ZD4D466fBaMynK52uDP3view)
+![Delete Routes](https://drive.google.com/file/d/1iG6D1EPUxF5-ZD4D466fBaMynK52uDP3/view)
 
 ​
 
